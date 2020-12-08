@@ -1,0 +1,75 @@
+
+/* Моя стилизация */
+
+.QuizList {
+	display: flex;
+	justify-content: center;
+	padding-top: 100px;
+	flex-grow: 1;
+	width: 100%;
+	color: white;
+	background-color: #171717;
+}
+
+.QuizList ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.QuizList li {
+	margin-bottom: 10px;
+	background-color: white;
+	text-align: center;
+	border-radius: 10px;
+	padding: 5px;
+	max-width: 90%;
+	margin: 10px auto;
+}
+
+.QuizList a {
+	text-decoration: none;
+	color: white;
+	color: black;
+	font-weight: bold;
+}
+
+.QuizList a:hover {
+	font-weight: bold;
+	color: #777777;
+}
+
+
+
+
+/* Стилизация из курса */
+
+/*.QuizList {
+	display: flex;
+	justify-content: center;
+	padding-top: 100px;
+	flex-grow: 1;
+	width: 100%;
+	color: white;
+	background-color: #171717;
+}
+
+.QuizList ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.QuizList li {
+	margin-bottom: 10px;
+}
+
+.QuizList li a {
+	text-decoration: none;
+	color: white;
+}
+
+.QuizList li a:hover {
+	font-weight: bold;
+	color: white;
+}*/

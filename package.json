@@ -2,7 +2,7 @@
   "name": "react-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MaksDeveloper14/React-Udemy---Course",
+  "homepage": "https://maksdeveloper14.github.io/React-Udemy---Course/",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
